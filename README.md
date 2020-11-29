@@ -8,7 +8,7 @@ This directory contains all the codes with explanation from sources:
 - Maven
 
 ## Quick-start guide:
-- For `#F00**'word-counts'**` project, go to a the project directory, run the command line:
+- For`#F00 **'word-counts'**` project, go to a the project directory, run the command line:
 
 ```
 $ ./run
