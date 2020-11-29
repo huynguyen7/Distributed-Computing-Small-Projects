@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e738fc8a-72e7-44da-bb06-1a230442de03" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kykdMvkJMMsGtdBIYBsBWzBKQi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Program" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program" />
+      <module name="word-counts" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e738fc8a-72e7-44da-bb06-1a230442de03" name="Default Changelist" comment="" />
+      <created>1606680305262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606680305262</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="674" y="236" key="#Program" timestamp="1606685540979">
+      <screen x="0" y="23" width="1920" height="1000" />
+    </state>
+    <state x="674" y="236" key="#Program/0.23.1920.1000@0.23.1920.1000" timestamp="1606685540979" />
+    <state x="526" y="226" width="1071" height="736" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606681811145">
+      <screen x="0" y="23" width="1920" height="1000" />
+    </state>
+    <state x="526" y="226" width="1071" height="736" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1000@0.23.1920.1000" timestamp="1606681811145" />
+    <state x="796" y="279" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1606688767220">
+      <screen x="0" y="23" width="1920" height="1000" />
+    </state>
+    <state x="796" y="279" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.23.1920.1000@0.23.1920.1000" timestamp="1606688767220" />
+    <state width="1099" height="246" key="GridCell.Tab.0.bottom" timestamp="1606685076388">
+      <screen x="0" y="23" width="1920" height="1000" />
+    </state>
+    <state width="1099" height="246" key="GridCell.Tab.0.bottom/0.23.1920.1000@0.23.1920.1000" timestamp="1606685076388" />
+    <state width="1099" height="246" key="GridCell.Tab.0.center" timestamp="1606685076387">
+      <screen x="0" y="23" width="1920" height="1000" />
+    </state>
+    <state width="1099" height="246" key="GridCell.Tab.0.center/0.23.1920.1000@0.23.1920.1000" timestamp="1606685076387" />
+    <state width="1099" height="246" key="GridCell.Tab.0.left" timestamp="1606685076386">
+      <screen x="0" y="23" width="1920" height="1000" />
+    </state>
+    <state width="1099" height="246" key="GridCell.Tab.0.left/0.23.1920.1000@0.23.1920.1000" timestamp="1606685076386" />
+    <state width="1099" height="246" key="GridCell.Tab.0.right" timestamp="1606685076388">
+      <screen x="0" y="23" width="1920" height="1000" />
+    </state>
+    <state width="1099" height="246" key="GridCell.Tab.0.right/0.23.1920.1000@0.23.1920.1000" timestamp="1606685076388" />
+    <state x="767" y="254" key="SettingsEditor" timestamp="1606683845555">
+      <screen x="0" y="23" width="1920" height="1000" />
+    </state>
+    <state x="767" y="254" key="SettingsEditor/0.23.1920.1000@0.23.1920.1000" timestamp="1606683845555" />
+    <state x="807" y="391" key="com.intellij.ide.util.TipDialog" timestamp="1606680309110">
+      <screen x="0" y="23" width="1920" height="1000" />
+    </state>
+    <state x="807" y="391" key="com.intellij.ide.util.TipDialog/0.23.1920.1000@0.23.1920.1000" timestamp="1606680309110" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="word-counts" type="b2602c69:ProjectViewProjectNode" />
+        <item name="word-counts" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>

@@ -1,0 +1,6 @@
+* PROJECT EXPLANATION:
+Get the word-counts from all the text files in './src/main/resources/' directory then ouput to './output.txt' file.
+
+** USAGE:
+- Run the command line:
+$ ./run
