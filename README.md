@@ -8,13 +8,13 @@ This directory contains all the codes with explanation from sources:
 - Maven
 
 ## Quick-start guide:
-- For _**'word-counts'**_ project, go to a the project directory, run the command line:
+- For _**word-counts**_ project, go to a the project directory, run the command line:
 
 ```
 $ ./run
 ```
 
-- For _**'page-rank'**_ project, go to project directory, then run the command line:
+- For _**page-rank**_ project, go to project directory, then run the command line:
 
 ```
 $ mvn test

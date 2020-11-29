@@ -21,6 +21,7 @@ public class Program {
         SparkConf sparkConf = new SparkConf().setAppName("Word Counts Program")
                 .setMaster(String.format("local[%d]", Runtime.getRuntime().availableProcessors()));
 
+
         // start Spark context.
         JavaSparkContext sc = new JavaSparkContext(sparkConf);
         // sc.setLogLevel("WARN");
