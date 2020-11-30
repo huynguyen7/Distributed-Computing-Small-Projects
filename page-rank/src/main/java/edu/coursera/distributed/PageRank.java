@@ -4,6 +4,10 @@ import org.apache.spark.api.java.JavaRDD;
 import org.apache.spark.api.java.JavaPairRDD;
 import scala.Tuple2;
 
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
+
 /**
  * A wrapper class for the implementation of a single iteration of the iterative
  * PageRank algorithm.
@@ -49,6 +53,27 @@ public final class PageRank {
     public static JavaPairRDD<Integer, Double> sparkPageRank(
             final JavaPairRDD<Integer, Website> sites,
             final JavaPairRDD<Integer, Double> ranks) {
-        throw new UnsupportedOperationException();
+
+        JavaPairRDD<Integer, Double> newRanks = sites.join(ranks)
+                .flatMapToPair(site -> {
+                    // Integer websiteId = site._1(); // Unused variable.
+                    Tuple2<Website, Double> value = site._2();
+                    Website website = value._1();
+                    Double currentRank = value._2();
+
+                    List<Tuple2<Integer, Double>> contributions = new ArrayList<>();
+                    Iterator<Integer> iter = website.edgeIterator(); // get iterator for all incoming edges to the current site.
+
+                    double rank = currentRank / (double) website.getNEdges();
+                    while(iter.hasNext()) {
+                        final int targetId = iter.next();
+                        contributions.add(new Tuple2<>(targetId, rank));
+                    }
+
+                    return contributions;
+                });
+
+        return newRanks.reduceByKey((Double rank1, Double rank2) -> rank1 + rank2)
+                .mapValues(rank -> 0.15 + 0.85 * rank);
     }
 }
