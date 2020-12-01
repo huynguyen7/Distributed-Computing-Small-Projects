@@ -62,7 +62,7 @@ public final class PageRank {
                     Double currentRank = value._2();
 
                     List<Tuple2<Integer, Double>> contributions = new ArrayList<>();
-                    Iterator<Integer> iter = website.edgeIterator(); // get iterator for all incoming edges to the current site.
+                    Iterator<Integer> iter = website.edgeIterator(); // get iterator for all outcoming edges from the current site.
 
                     double rank = currentRank / (double) website.getNEdges();
                     while(iter.hasNext()) {
