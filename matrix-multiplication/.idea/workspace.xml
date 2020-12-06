@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="894c59b4-62c8-4b45-9c89-d1df70c1f870" name="Default Changelist" comment="" />
+    <list default="true" id="ead738a0-06ff-4e3c-b32d-72f093cc924a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1lG5qA4noQPqppfEGcg6I2fC7XX" />
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="MPITests-4" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lIhsAqUkK2Uoi5YYQ67vtqrhAN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -36,34 +48,30 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="894c59b4-62c8-4b45-9c89-d1df70c1f870" name="Default Changelist" comment="" />
-      <created>1607210775368</created>
+      <changelist id="ead738a0-06ff-4e3c-b32d-72f093cc924a" name="Default Changelist" comment="" />
+      <created>1607290716761</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1607210775368</updated>
+      <updated>1607290716761</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1099" height="246" key="GridCell.Tab.0.bottom" timestamp="1607211764061">
+    <state width="1099" height="246" key="GridCell.Tab.0.bottom" timestamp="1607294109135">
       <screen x="0" y="23" width="1920" height="1000" />
     </state>
-    <state width="1099" height="246" key="GridCell.Tab.0.bottom/0.23.1920.1000@0.23.1920.1000" timestamp="1607211764061" />
-    <state width="1099" height="246" key="GridCell.Tab.0.center" timestamp="1607211764056">
+    <state width="1099" height="246" key="GridCell.Tab.0.bottom/0.23.1920.1000@0.23.1920.1000" timestamp="1607294109135" />
+    <state width="1099" height="246" key="GridCell.Tab.0.center" timestamp="1607294109132">
       <screen x="0" y="23" width="1920" height="1000" />
     </state>
-    <state width="1099" height="246" key="GridCell.Tab.0.center/0.23.1920.1000@0.23.1920.1000" timestamp="1607211764056" />
-    <state width="1099" height="246" key="GridCell.Tab.0.left" timestamp="1607211764054">
+    <state width="1099" height="246" key="GridCell.Tab.0.center/0.23.1920.1000@0.23.1920.1000" timestamp="1607294109132" />
+    <state width="1099" height="246" key="GridCell.Tab.0.left" timestamp="1607294109131">
       <screen x="0" y="23" width="1920" height="1000" />
     </state>
-    <state width="1099" height="246" key="GridCell.Tab.0.left/0.23.1920.1000@0.23.1920.1000" timestamp="1607211764054" />
-    <state width="1099" height="246" key="GridCell.Tab.0.right" timestamp="1607211764059">
+    <state width="1099" height="246" key="GridCell.Tab.0.left/0.23.1920.1000@0.23.1920.1000" timestamp="1607294109131" />
+    <state width="1099" height="246" key="GridCell.Tab.0.right" timestamp="1607294109133">
       <screen x="0" y="23" width="1920" height="1000" />
     </state>
-    <state width="1099" height="246" key="GridCell.Tab.0.right/0.23.1920.1000@0.23.1920.1000" timestamp="1607211764059" />
-    <state x="789" y="361" key="com.intellij.ide.util.TipDialog" timestamp="1607290663523">
-      <screen x="0" y="23" width="1920" height="1000" />
-    </state>
-    <state x="789" y="361" key="com.intellij.ide.util.TipDialog/0.23.1920.1000@0.23.1920.1000" timestamp="1607290663523" />
+    <state width="1099" height="246" key="GridCell.Tab.0.right/0.23.1920.1000@0.23.1920.1000" timestamp="1607294109133" />
   </component>
 </project>

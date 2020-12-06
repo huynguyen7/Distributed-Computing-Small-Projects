@@ -1,0 +1,10 @@
+* GOOD EXPLANATION
+https://www.coursera.org/learn/distributed-programming-in-java/lecture/zvlID/demonstration-distributed-matrix-multiply-using-message-passing
+
+Single Program Multiple Data (SPMD) parallelism using MPI:
+https://en.wikipedia.org/wiki/SPMD
+
+MPI (Message Passing Interface):
+https://en.wikipedia.org/wiki/Message_passing
+https://en.wikipedia.org/wiki/Message_Passing_Interface
+
