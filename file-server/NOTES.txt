@@ -1,0 +1,6 @@
+* GOOD EXPLANATION:
+https://www.coursera.org/learn/distributed-programming-in-java/lecture/W1U8D/demonstration-file-server-using-sockets
+https://en.wikipedia.org/wiki/Publish-subscribe_pattern
+https://en.wikipedia.org/wiki/Apache_Kafka
+
+The publish-subscribe pattern, which represents a further generalization of the multicast concept. In this pattern, publisher processes add messages to designated topics, and subscriber processes receive those messages by registering on the topics that they are interested in. A key advantage of this approach is that publishers need not be aware of which processes are the subscribers, and vice versa. Another advantage is that it lends itself to very efficient implementations because it can enable a number of communication optimizations, which include batching and topic partitioning across broker nodes.  Yet another advantage is improved reliability, because broker nodes can replicate messages in a topic, so that if one node hosting a topic fails, the entire publish-subscribe system can continue execution with another node that contains a copy of all messages in that topic.
