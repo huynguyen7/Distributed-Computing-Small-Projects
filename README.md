@@ -14,7 +14,7 @@ This directory contains all the codes with explanations from sources:
 $ ./run
 ```
 
-- For _**page-rank**_ project, go to project directory, then run the command line:
+- For _**page-rank**_, _**file-server**_ projects, go to project directory, then run the command line:
 
 ```
 $ mvn test
