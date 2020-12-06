@@ -19,3 +19,9 @@ $ ./run
 ```
 $ mvn test
 ```
+
+- For _**matrix-multiplication**_ project, go to project directory, then run the command line:
+
+```
+$ mvn -P MPITests-4 test-compile
+```
