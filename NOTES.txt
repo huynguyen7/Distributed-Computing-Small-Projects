@@ -5,9 +5,22 @@ https://muratbuffalo.blogspot.com/2020/06/learning-about-distributed-systems.htm
 https://www.vxchnge.com/blog/centralized-decentralized-network
 https://anandgharu.wordpress.com/ (RECOMMEND)
 
+** Message Passing Interface:
+http://wgropp.cs.illinois.edu/courses/cs598-s16/lectures/lecture36.pdf
+
+** Microservices:
+https://stackify.com/communication-microservices-avoid-common-problems/
+https://martinfowler.com/articles/microservice-trade-offs.html#distribution
+https://stackify.com/communication-microservices-avoid-common-problems/
+https://stackify.com/what-are-microservices/
+https://lalverma.medium.com/spring-boot-microservices-learning-through-examples-7b215ef511b8
+
 ** Hadoop vs Spark:
 https://phoenixnap.com/kb/hadoop-vs-spark
 https://www.coursera.org/learn/distributed-programming-in-java/lecture/wxps1/1-3-spark-framework
 
 ** Tutorial on Spark:
 https://spark.apache.org/docs/latest/rdd-programming-guide.html
+
+** TESTING SERVICES:
+https://stackify.com/best-website-load-testing-services/

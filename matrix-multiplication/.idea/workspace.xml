@@ -57,6 +57,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="601" y="224" key="#Updates" timestamp="1607373061675">
+      <screen x="0" y="23" width="1920" height="1000" />
+    </state>
+    <state x="601" y="224" key="#Updates/0.23.1920.1000@0.23.1920.1000" timestamp="1607373061675" />
     <state width="1099" height="246" key="GridCell.Tab.0.bottom" timestamp="1607294109135">
       <screen x="0" y="23" width="1920" height="1000" />
     </state>
@@ -73,5 +77,9 @@
       <screen x="0" y="23" width="1920" height="1000" />
     </state>
     <state width="1099" height="246" key="GridCell.Tab.0.right/0.23.1920.1000@0.23.1920.1000" timestamp="1607294109133" />
+    <state x="834" y="417" key="com.intellij.ide.util.TipDialog" timestamp="1607375066395">
+      <screen x="0" y="23" width="1920" height="1000" />
+    </state>
+    <state x="834" y="417" key="com.intellij.ide.util.TipDialog/0.23.1920.1000@0.23.1920.1000" timestamp="1607375066395" />
   </component>
 </project>
